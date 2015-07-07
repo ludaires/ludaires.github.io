@@ -5,21 +5,6 @@ date:   2015-07-06 18:33:31
 categories: technology
 photo: img/NYC.jpg
 ---
-<p>
-  I WAS an ordinary computer programmer. I wrote code that ran at the levels between flashy human interfaces and the deep cores of operating systems, like the role of altos in a chorus, who provide the structure without your taking much notice of their melodic lines. I made realistic schedules and met my deadlines. Those were decent accomplishments.
-</p>
-<p>
-  But none of it qualified me as extraordinary in the great programmer scheme of things. What seems to have distinguished me is the fact that I was a “woman programmer.” The questions I am often asked about my career tend to concentrate not on how one learns to code but how a woman does.
-</p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut mattis risus eu euismod consectetur. Nullam sem nunc, efficitur eget nunc vel, rutrum pellentesque elit. Proin sed fermentum erat, et interdum ipsum. Proin varius risus a auctor dapibus. Maecenas dui justo, elementum vitae ligula vitae, auctor posuere felis. Nullam sit amet pellentesque ipsum. Phasellus ipsum libero, scelerisque at porta vitae, consectetur ut magna. Integer viverra a nunc vitae laoreet. Proin ac semper mi.
 
-<quote>
-  Let me separate the two words and begin with what it means to become a programmer.
-</quote>
-
-<p>
-  The first requirement for programming is a passion for the work, a deep need to probe the mysterious space between human thoughts and what a machine can understand; between human desires and how machines might satisfy them.
-</p>
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+Sed imperdiet semper justo, id varius purus cursus ac. Proin a gravida dui. Nulla sed rhoncus diam. Morbi neque nulla, luctus dictum dui eget, scelerisque ultricies tortor. Etiam consectetur in sapien non rhoncus. Suspendisse rhoncus ac quam ac ornare. Integer elementum tempor gravida. Etiam dolor justo, dignissim ut tincidunt et, bibendum ac ligula. Proin in lobortis metus. Nullam molestie, sem at ullamcorper pretium, diam velit pellentesque urna, sed condimentum libero libero a ante. Vivamus non ligula dapibus urna efficitur molestie. Aenean auctor rhoncus sapien, in ullamcorper nulla pharetra id. Vestibulum ante imperdietsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
