@@ -1,8 +1,10 @@
 ---
 layout: default
 ---
-
 <section id="blog">
+  <p class="rss-subscribe">
+    Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a>
+  </p>
 
   {% for post in site.posts %}
   <article>
@@ -18,7 +20,4 @@ layout: default
   {% endfor %}
 
 
-  <p class="rss-subscribe">
-    Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a>
-  </p>
 </section>

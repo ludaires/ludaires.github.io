@@ -35,6 +35,10 @@ h1 {
   text-transform: uppercase;
 }
 
+li {
+  display: inline;
+}
+
 header {
   font-family: "futura-pt";
   font-size: 24px;
@@ -47,8 +51,32 @@ header p {
   letter-spacing: 0.1em;
 }
 
+/*style header*/
 header ul {
+  background: #212121;
+  line-height: 52px;
   font-size: 16px;
+}
+
+
+header li {
+  padding: 15px 35px;
+  margin: 0px -5px;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+}
+
+header  li:hover {
+  background-color: #333;
+}
+
+header  li a {
+  text-decoration: none;
+  color: #EEE;
+}
+
+header  li.active {
+  background-color: #333;
 }
 
 #about img {
@@ -120,40 +148,30 @@ article {
   padding-bottom: 10px;
 }
 
-/*style nav header*/
-
-
 /*Styling Links*/
 a {
   text-decoration: none;
   color: #002F2F;
 }
 
-nav ul {
-  background: #212121;
-  line-height: 52px;
+nav.social-icons {
+  margin: 40px;
+  text-align: center;
+  font-size: 36px;
 }
 
-
-nav li {
-  display: inline;
-  padding: 15px 35px;
-  margin: 0px -5px;
-  letter-spacing: 0.3em;
-  text-transform: uppercase;
+nav.social-icons {
+  margin: 20px;
+  text-align: center;
+  font-size: 36px;
 }
 
-nav li:hover {
-  background-color: #333;
+nav.social-icons li {
+  margin: 10px;
 }
 
-nav li a {
-  text-decoration: none;
-  color: #EEE;
-}
-
-nav li.active {
-  background-color: #333;
+.rss-subscribe {
+  text-align: right;
 }
 
 footer {
