@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<section id="blog">
+
+  {% for post in site.posts %}
+  <article>
+    <img src="{{ post.photo }}" alt="{{ post.title }}" title="{{ post.title }}">
+    <p class="date">
+      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: "%B %-d, %Y" }} {{ post.location }}</a>
+    </p>
+    <p>
+      {{ post.content }}
+    </p>
+    <button>Like</button>
+  </article>
+  {% endfor %}
+
+
+  <p class="rss-subscribe">
+    Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a>
+  </p>
+</section>

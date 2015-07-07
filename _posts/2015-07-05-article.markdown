@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+date:   2015-07-06 18:33:31
+categories: samples
+photo: img/post01.jpg
+---
+<p>
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut mattis risus eu euismod consectetur. Nullam sem nunc, efficitur eget nunc vel, rutrum pellentesque elit. Proin sed fermentum erat, et interdum ipsum. Proin varius risus a auctor dapibus. Maecenas dui justo, elementum vitae ligula vitae, auctor posuere felis. Nullam sit amet pellentesque ipsum. Phasellus ipsum libero, scelerisque at porta vitae, consectetur ut magna. Integer viverra a nunc vitae laoreet. Proin ac semper mi.
+</p>
+
+<p>
+  Sed imperdiet semper justo, id varius purus cursus ac. Proin a gravida dui. Nulla sed rhoncus diam. Morbi neque nulla, luctus dictum dui eget, scelerisque ultricies tortor. Etiam consectetur in sapien non rhoncus. Suspendisse rhoncus ac quam ac ornare. Integer elementum tempor gravida. Etiam dolor justo, dignissim ut tincidunt et, bibendum ac ligula. Proin in lobortis metus. Nullam molestie, sem at ullamcorper pretium, diam velit pellentesque urna, sed condimentum libero libero a ante. Vivamus non ligula dapibus urna efficitur molestie. Aenean auctor rhoncus sapien, in ullamcorper nulla pharetra id. Vestibulum ante imperdietsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
+</p>

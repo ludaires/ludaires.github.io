@@ -1,0 +1,15 @@
+# Site settings
+title: Ludmilla Aires
+email: ludaires@gmail.com
+description: A woman ventures into code.
+
+# the subpath of your site, e.g. /blog/
+baseurl: ""
+
+ # the base hostname & protocol for your site
+url: "http://http://ludaires.github.io/"
+twitter_username: ludaires
+github_username:  ludaires
+
+# Build settings
+markdown: kramdown
