@@ -5,6 +5,10 @@ body {
   background-color: #FFF;
 }
 
+blockquote {
+  font-style: italic;
+}
+
 h1 {
   text-transform: uppercase;
 }
