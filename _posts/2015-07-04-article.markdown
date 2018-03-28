@@ -1,17 +1,15 @@
 ---
 layout: post
 title:  "Jekyll - Simple, blog-aware, static sites"
-location: "New York City"
-date:   2015-07-06 18:33:31
+# location: "New York City"
+date:   2018-03-26 
 categories: technology
-photo: img/homeoffice.jpg
+photo: https://www.studioghibli.com.au/wp-content/uploads/2017/07/mma3202-stills-medium_6.jpg
 ---
-I WAS an ordinary computer programmer. I wrote code that ran at the levels between flashy human interfaces and the deep cores of operating systems, like the role of altos in a chorus, who provide the structure without your taking much notice of their melodic lines. I made realistic schedules and met my deadlines. Those were decent accomplishments.
+As an online student at Flatiron school Web Development bootcamp we are required to do as many labs as possible to test our knowledge about the curriculum. At important milestones in the curriculum, we’ll be challenged to build applications that will become the foundation of our programming portfolio.
 
-But none of it qualified me as extraordinary in the great programmer scheme of things. What seems to have distinguished me is the fact that I was a “woman programmer.” The questions I am often asked about my career tend to concentrate not on how one learns to code but how a woman does.
+In this post, I’m going to talk about my first project, which is a CLI (Command Line Interface) Gem Application. My CLI provides access to data from a Studio Ghibli API (https://ghibliapi.herokuapp.com/) about all movies. 
 
-<blockquote>
+<!-- <blockquote>
   Let me separate the two words and begin with what it means to become a programmer.
-</blockquote>
-
-The first requirement for programming is a passion for the work, a deep need to probe the mysterious space between human thoughts and what a machine can understand; between human desires and how machines might satisfy them.
+</blockquote> -->
