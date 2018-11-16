@@ -4,7 +4,7 @@ title:  "CMMS with UML"
 # location: "New York City"
 date:   2018-09-18 
 categories: technology
-photo: /img/analises.jpg
+photo: https://ludaires.github.io/img/analises.jpg
 ---
 As a former industrial chemist who decided to learn how to code, I wanted to create a project which could combine the two things I love the most: Chemistry and Coding. 
 

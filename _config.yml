@@ -7,7 +7,8 @@ description: A woman ventures into code.
 baseurl: ""
 
  # the base hostname & protocol for your site
-url: "http://ludaires.github.io/"
+url: "https://ludaires.github.io/"
+image_url: "https://ludaires.github.io/img/lud-photo.jpg"
 twitter_username: ludaires
 github_username:  ludaires
 
