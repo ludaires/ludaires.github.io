@@ -1,23 +1,24 @@
 ---
-layout: default
+layout: page
 ---
 <section id="blog">
-  <p class="rss-subscribe">
+  <!-- <p class="rss-subscribe">
     Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a>
-  </p>
+  </p> -->
 
   {% for post in site.posts %}
-  <article>
-    <img src="{{ post.photo }}" alt="{{ post.title }}" title="{{ post.title }}">
-    <p class="date">
-      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: "%B %-d, %Y" }} {{ post.location }}</a>
-    </p>
-    <p>
-      {{ post.content }}
-    </p>
-    <div class="fb-like" data-href="{{ post.url | prepend: site.baseurl }}" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
-  </article>
+  <div class="post">
+    <article>      
+      <img src="{{ post.photo }}" alt="{{ post.title }}" title="{{ post.title }}">
+      <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+      <div class="date">
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: "%B %-d, %Y" }} {{ post.location }}</a>
+      </div>
+      <p>
+        {{ post.content }}
+      </p>      
+    </article>  
+  </div>
+  
   {% endfor %}
-
-
 </section>

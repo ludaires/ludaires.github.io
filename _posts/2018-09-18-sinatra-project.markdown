@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  "Jekyll - Simple, blog-aware, static sites"
+title:  "CMMS with UML"
 # location: "New York City"
 date:   2018-09-18 
 categories: technology
-photo: img/analises.jpg
+photo: /img/analises.jpg
 ---
-As a former industrial chemist who decided to learn how to code, I wanted to create a project which could combine the two things I love the most: Chemistry and Code. 
+As a former industrial chemist who decided to learn how to code, I wanted to create a project which could combine the two things I love the most: Chemistry and Coding. 
 
 A chemical lab has a lot of equipment that needs periodic maintenance: corrective and preventive. I developed an app to help technicians to keep a record of all assets they are responsible for, including scheduling, track maintenance, tasks, and keeping a record of the work they perform.  
 
-The application was built in Ruby, using MVC architecture, and Sinatra as a framework. I used [Lucidchart](https://www.lucidchart.com "Lucidchart's Homepage") to create a class diagram in the UML  (Unified Modeling Language) to set up beforehand all the classes I would need to make this app simple and functional. 
+The web application was built in Ruby, using MVC architecture, and Sinatra. Here is a class diagram I put together in UML [Unified Modeling Language](https://en.wikipedia.org/wiki/Unified_Modeling_Language). I used [Lucidchart](https://www.lucidchart.com "Lucidchart's Homepage") to design the schema and set up everything beforehand. My primary goal was to make this app very simple and functional.
 
 ![Class Diagram](/img/class_diagram.png)
 

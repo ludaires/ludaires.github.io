@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Jekyll - Simple, blog-aware, static sites"
+title:  "Project Studio Ghibli CLI"
 # location: "New York City"
 date:   2018-03-26 
 categories: technology
