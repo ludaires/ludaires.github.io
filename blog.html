@@ -7,18 +7,18 @@ layout: page
   </p> -->
 
   {% for post in site.posts %}
-  <div class="post">
-    <article>      
-      <img src="{{ post.photo }}" alt="{{ post.title }}" title="{{ post.title }}">
-      <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-      <div class="date">
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: "%B %-d, %Y" }} {{ post.location }}</a>
-      </div>
-      <p>
-        {{ post.content }}
-      </p>      
-    </article>  
-  </div>
+    <div class="post">
+      <article>      
+        <img src="{{ post.photo }}" alt="{{ post.title }}" title="{{ post.title }}">
+        <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+        <div class="date">
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: "%B %-d, %Y" }} {{ post.location }}</a>
+        </div>
+        <p>
+          {{ post.content }}
+        </p>      
+      </article>  
+    </div>
   
   {% endfor %}
 </section>

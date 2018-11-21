@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "CMMS with UML"
-# location: "New York City"
+title:  "Sinatra Project: CMMS with UML"
+location: "New York City"
 date:   2018-09-18 
 categories: technology
 photo: https://ludaires.github.io/img/analises.jpg

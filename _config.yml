@@ -14,3 +14,7 @@ github_username:  ludaires
 
 # Build settings
 markdown: kramdown
+
+# plugins
+gems:
+  - jekyll-paginate
