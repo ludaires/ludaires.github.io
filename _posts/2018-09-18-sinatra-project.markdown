@@ -25,4 +25,4 @@ You can learn more about it [here](https://en.wikipedia.org/wiki/Class_diagram "
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UI6lqHOVHic" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-You can see the full application on my [GitHub account](https://github.com/ludaires/maintenance_management_sinatra_app "Ludmilla's GitHub"). 
+You can see the full application on my [GitHub account](https://github.com/ludaires/maintenance_management_sinatra_app "Ludmilla's GitHub") or live [here](https://sinatra-cmms.herokuapp.com/ "CMMS Heroku"). 
