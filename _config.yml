@@ -1,7 +1,7 @@
 # Site settings
 title: Ludmilla Aires
 email: ludaires@gmail.com
-description: A woman ventures into code.
+description: A chemist who ventures into code.
 
 # the subpath of your site, e.g. /blog/
 baseurl: ""
@@ -12,9 +12,7 @@ image_url: "https://ludaires.github.io/img/lud-photo.jpg"
 twitter_username: ludaires
 github_username:  ludaires
 
-# Build settings
+# Build setting
 markdown: kramdown
 
-# plugins
-gems:
-  - jekyll-paginate
+
