@@ -4,7 +4,7 @@ title:  "React Redux Project: Single Page Application"
 location: "New York City"
 date:   2019-10-19
 categories: technology
-photo: https://ludaires.github.io/img/spa-icon.jpg
+photo: https://ludaires.github.io/img/react-redux.png
 ---
 How exciting is to get at the end of the curriculum. I have learned so much and could build many cool projects. The projects have helped me understand the sections and how to apply all the knowledge I have acquired, and  go even further exploring different libraries. 
 
