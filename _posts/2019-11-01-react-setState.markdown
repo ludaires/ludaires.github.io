@@ -4,7 +4,7 @@ title:  "React: Understanding setState()"
 location: "New York City"
 date:   2019-11-01
 categories: technology
-photo: https://ludaires.github.io/img/react-state.png
+photo: https://ludaires.github.io/img/react-state.jpeg
 ---
 A React class component has an internal state, which like props, affects how the component renders and behaves. Unlike accessories, the state is local to the component and can only be initialized and updated within it.
 
